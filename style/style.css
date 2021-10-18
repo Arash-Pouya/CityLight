@@ -133,7 +133,7 @@ header{
  /* ////////////////////////////////// */
  .model{
      margin-top: 50px;
-     background: url("https://www.bartush.com/wp-content/uploads/2019/10/led-sign.jpg") fixed center no-repeat; 
+     background: url("../image/led-sign.jpg") fixed center no-repeat; 
 
 }
  #model{
@@ -187,8 +187,8 @@ header{
     transform: translate(-50%, -50%);
 }
 .leaderboard__profiles {
-    backdrop-filter: blur(30px);
-    background-color: rgba(255, 255, 255, 0.253);
+    /* backdrop-filter: blur(30px); */
+    background-color: rgba(255, 255, 255, 0.424);
     border-radius: 0 0 12px 12px;
     padding: 15px 15px 20px;
     display: grid;
